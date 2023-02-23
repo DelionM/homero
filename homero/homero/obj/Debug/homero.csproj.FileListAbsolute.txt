@@ -1,0 +1,13 @@
+c:\users\investor_dm_\documents\visual studio 2015\Projects\homero\homero\bin\Debug\homero.exe.config
+c:\users\investor_dm_\documents\visual studio 2015\Projects\homero\homero\bin\Debug\homero.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\homero\homero\bin\Debug\homero.pdb
+c:\users\investor_dm_\documents\visual studio 2015\Projects\homero\homero\obj\Debug\homero.csprojResolveAssemblyReference.cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\homero\homero\obj\Debug\homero.Form1.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\homero\homero\obj\Debug\homero.Properties.Resources.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\homero\homero\obj\Debug\homero.csproj.GenerateResource.Cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\homero\homero\obj\Debug\homero.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\homero\homero\obj\Debug\homero.pdb
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\homero\homero\bin\Debug\Calculus.dll
+P:\Projects C#\homero\homero\bin\Debug\homero.exe.config
+P:\Projects C#\homero\homero\obj\Debug\homero.exe
+P:\Projects C#\homero\homero\obj\Debug\homero.pdb
